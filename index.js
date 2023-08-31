@@ -33,7 +33,7 @@ function Productlist(catgory, image, title,description, price, hoverImage) {
 const products = [
 new Productlist("shirt","./product_images/shirts/product-1.jpg","Polo", "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",3,"./product_images/shirts/product-1-hover.jpg"),
 new Productlist("shirt","./product_images/shirts/product-2.jpg","Nike", "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",4,"./product_images/shirts/product-2-hover.jpg"),
-new Productlist("shirt","./product_images/shirts/product-3a.jpg","Polo","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",4.5,"./product_images/shirts/product-3a-hover.jpg"),
+new Productlist("shirt","./product_images/shirts/product-2-hover.jpg","Polo","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",4.5,"./product_images/shirts/product-3a-hover.jpg"),
 new Productlist("shirt","./product_images/shirts/product-4a.jpg","Nike","Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",3.5,"./product_images/shirts/product-4a-hover.jpg"),
 new Productlist("shoe","./product_images/shoe/shoe4.jpg"," Nike shoe",  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",50,"./product_images/shoe/shoe4-hover.jpg"),
 new Productlist("shoe","./product_images/shoe/shoe5.jpg"," Nike shoe",  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima, alias!",30,"./product_images/shoe/shoe5-hover.jpg"),
